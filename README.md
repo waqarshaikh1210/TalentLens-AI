@@ -1,22 +1,22 @@
-# 🎯 TalentLens AI – Resume Screening System
+ TalentLens AI – Resume Screening System
 
 TalentLens AI is an intelligent resume screening application that helps recruiters automatically rank candidates based on job description relevance using NLP techniques.
 
 ---
 
-## 🚀 Features
+ Features
 
-- 📄 Upload multiple PDF resumes
-- 🧠 NLP-based matching (TF-IDF + Cosine Similarity)
-- 🎯 Skill-based matching system
-- 🏆 Automatic candidate ranking
-- 📊 Score visualization (bar chart)
-- 📥 Export results as CSV
-- 🌙 Modern dark UI (Streamlit)
+-  Upload multiple PDF resumes
+-  NLP-based matching (TF-IDF + Cosine Similarity)
+-  Skill-based matching system
+-  Automatic candidate ranking
+-  Score visualization (bar chart)
+-  Export results as CSV
+-  Modern dark UI (Streamlit)
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 ### 1. Text Extraction
 - Extracts text from PDF resumes using PyPDF2
